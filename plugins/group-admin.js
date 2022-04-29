@@ -8,9 +8,6 @@ let handler = async (m, { conn, participants, text, usedPrefix, command }) => {
     } else if (/demote/i.test(command)) {
 	    await conn.groupParticipantsUpdate(m.chat, [users], 'demote')
 	    await m.reply(`Success ${command}`)
-    } else if (/add/i.test(command)) {
-	    await conn.groupParticipantsUpdate(m.chat, [users], 'add')
-	    await m.reply(`Success ${command}`)
     } else if (/kick/i.test(command)) {
 	    await conn.groupParticipantsUpdate(m.chat, [users], 'remove')
 	    await m.reply(`Success ${command}`)
