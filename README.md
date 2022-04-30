@@ -1,2 +1,2 @@
 
-[`Click Me`](https://heroku.com/deploy?template=https://github.com/itsmedell/CloudBot)
+[`Click Me`](https://heroku.com/deploy?template=https://github.com/siegrin/CloudBot)
