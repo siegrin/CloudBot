@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/siegrin" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="https://siegrin.github.io"><img src="http://readme-typing-svg.herokuapp.com?color=7CFC00&center=true&vCenter=true&multiline=false&lines=Thank+for+using+Luc+Bot+" alt="Asu">
+  <a href="https://siegrin.github.io"><img src="http://readme-typing-svg.herokuapp.com?color=7CFC00&center=true&vCenter=true&multiline=false&lines=Thank+for+using+Cloud+Bot+" alt="Asu">
 </p>
 <p align="center">
 <a href="https://siegrin.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Siegrin-purple.svg?style=for-the-badge&logo=github"></a>
