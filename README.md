@@ -1,5 +1,19 @@
+[`Heroku Deploy`](https://heroku.com/deploy?template=https://github.com/lordlightness/Cloud-Bot-Whatsapp-Multi-Device)
+
+
+# Note
+```
+Ambil dulu session atau scan
+
+$ git clone https://github.com/lordlightness/Qr
+$ cd Qr
+$ node index
+
+Scan dulu trus ambil sessionnya
+```
+
 <p align="center">
-<img src="https://avatars.githubusercontent.com/siegrin" width="200" height="200"/>
+<img src="https://avatars.githubusercontent.com/itsmedell" width="200" height="200"/>
 </p>
 <p align="center">
   <a href="https://siegrin.github.io"><img src="http://readme-typing-svg.herokuapp.com?color=7CFC00&center=true&vCenter=true&multiline=false&lines=Thank+for+using+Cloud+Bot+" alt="Asu">
