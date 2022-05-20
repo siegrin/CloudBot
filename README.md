@@ -16,20 +16,20 @@ Scan dulu trus ambil sessionnya
 <img src="https://avatars.githubusercontent.com/itsmedell" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="https://siegrin.github.io"><img src="http://readme-typing-svg.herokuapp.com?color=7CFC00&center=true&vCenter=true&multiline=false&lines=Thank+for+using+Cloud+Bot+" alt="Asu">
+  <a href="https://siegrin.github.io"><img src="http://readme-typing-svg.herokuapp.com?color=0000ff&center=true&vCenter=true&multiline=false&lines=Thank+for+using+Cloud+Bot+" alt="Asu">
 </p>
 <p align="center">
 <a href="https://siegrin.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-Siegrin-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/siegrin/followers"><img title="Followers" src="https://img.shields.io/github/followers/siegrin?color=green&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/siegrin/LucBot?color=white&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/siegrin/LucBot?color=yellow&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/siegrin/LucBot?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/siegrin/LucBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/siegrin/LucBot/"><img title="Size" src="https://img.shields.io/github/repo-size/siegrin/LucBot?style=flat-square&color=darkred"></a>
+<a href="https://github.com/siegrin/CloudBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/siegrin/CloudBot?color=white&style=flat-square"></a>
+<a href="https://github.com/siegrin/CloudBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/siegrin/CloudBot?color=yellow&style=flat-square"></a>
+<a href="https://github.com/siegrin/CloudBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/siegrin/CloudBot?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/siegrin/CloudBot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/siegrin/CloudBot/"><img title="Size" src="https://img.shields.io/github/repo-size/siegrin/CloudBot?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiegrin%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/siegrin/LucBot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/siegrin/CloudBot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 ## Team and Friends
@@ -133,8 +133,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/siegrin/LucBot
-cd LucBot
+git clone https://github.com/siegrin/CloudBot
+cd CloudBot
 bash install.sh
 pkg install yarn
 yarn
@@ -149,8 +149,8 @@ yarn
 * Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) 
 
 ```bash
-git clone https://github.com/siegrin/LucBot
-cd LucBot
+git clone https://github.com/siegrin/CloudBot
+cd CloudBot
 npm install
 ```
 </details>
@@ -158,7 +158,7 @@ npm install
 <details>
   <summary>HEROKU</summary>
 	
-* [`Click Me`](https://heroku.com/deploy?template=https://github.com/siegrin/LucBot)
+* [`Click Me`](https://heroku.com/deploy?template=https://github.com/siegrin/CloudBot)
 
  ```bash
 heroku/nodejs
@@ -170,7 +170,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <details>
   <summary>RAILWAYS</summary>
 	
-* [`Click Me`](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2siegrin%2FLucBot)
+* [`Click Me`](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2siegrin%2FCloudBot)
  ```bash
 heroku/nodejs
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
@@ -181,7 +181,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <details>
   <summary>REPLIT</summary>
 	
-* [`Click Me`](https://repl.it/github.com/siegrin/LucBot)
+* [`Click Me`](https://repl.it/github.com/siegrin/CloudBot)
 ```bash
 Klik button
 Buka console
