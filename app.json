@@ -1,0 +1,67 @@
+{
+  "name": "CloudBot",
+  "description": "Customizable WhatsApp Bot",
+  "repository": "https://github.com/lordlightness/Cloud-Bot-Whatsapp-Multi-Device",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
+  "stack": "container",
+  "env": {
+        "NOWNER": {
+            "description": "Nomer Owner",
+            "required": true,
+            "value": "6281224863098"
+        },
+        "NAMAOWNER": {
+            "description": "Nama Owner",
+            "required": true,
+            "value": "Dellas"
+        },
+        "LINK_GITHUB": {
+            "description": "Link Github",
+            "required": true,
+            "value": "https://github.com/itsmedell"
+        },
+        "LINK_IG": {
+            "description": "Link Profile Instagram",
+            "required": true,
+            "value": "https://www.instagram.com/lord_lightness"
+        },
+        "LINK_GROUP": {
+            "description": "Link tautan grup whatsapp",
+            "required": true,
+            "value": "https://chat.whatsapp.com/Bx5aAxINL4hBLt6MxaK5xB"
+        },
+        "PACKNAME": {
+            "description": "Packname sticker",
+            "required": true,
+            "value": "Created by"
+        },
+        "AUTHOR": {
+            "description": "Author Bot (WM)",
+            "required": true,
+            "value": "CloudBot"
+        },
+        "MODERATOR": {
+            "description": "Moderator Bot",
+            "required": false,
+            "value": ""
+        },
+        "THUMB_MENU": {
+            "description": "Nomer Owner",
+            "required": true,
+            "value": "https://telegra.ph/file/baea4ead668adebdc5073.jpg"
+        },
+        "DONASI": {
+            "description": "Nomer Owner",
+            "required": true,
+            "value": "https://saweria.co/itsmedell"
+        }
+},
+  "buildpacks": [
+    {"url": "heroku/nodejs"},
+    {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
+    {"url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"},
+    {"url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"},
+    {"url": "https://github.com/ItsJimi/heroku-buildpack-pm2.git"}
+  ]
+}
