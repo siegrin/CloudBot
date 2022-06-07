@@ -10,9 +10,9 @@ global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.https://chat.whatsapp.com/Li1Y9v6BkG23Vkxe4WvHgZ
 global.ownernumber = process.env.6289522183114
-global.owner = [6289522183114
-  ['0'],
-  ['0'],
+global.owner = [
+  ['6289522183114'],
+  ['6289522183114'],
   [`${process.env.6289522183114}`, `${process.env.miacans}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
