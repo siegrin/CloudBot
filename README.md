@@ -12,6 +12,22 @@ $ node index
 Scan dulu trus ambil sessionnya
 ```
 
+# Setting
+Buat file .env
+Formatnya seperti ini didalam file .env
+```
+LINK_GITHUB=
+LINK_GROUP=
+LINK_IG=
+NOWNER=
+NAMAOWNER=
+MODERATOR=
+PACKNAME=
+AUTHOR=
+THUMB_MENU=
+DONASI=
+``` 
+
 <p align="center">
 <img src="https://avatars.githubusercontent.com/itsmedell" width="200" height="200"/>
 </p>
