@@ -16,7 +16,7 @@ global.owner = [
   [`${process.env.628974799554}`, `${process.env.Alzer Gans}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [`${process.env.MODERATOR}`] // Want some help?
+global.mods = [`${process.env.Alzer Gans}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
