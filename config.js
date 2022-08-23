@@ -6,17 +6,17 @@ import { fileURLToPath } from 'url'
 
 global.donasi = process.env.DONASI
 global.thumbmenu = process.env.THUMB_MENU
-global.sig = process.env.LINK_IG
-global.sgh = process.env.LINK_GITHUB
-global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
+global.sig = process.env.https://instagram.com/alzer.menolak.satir?igshid=YmMyMTA2M2Y=
+global.sgh = process.env.https://github.com/AlzerGans/
+global.sgc = process.env.https://chat.whatsapp.com/GDmDHBwbB0nGIs0WdV2nsd
+global.ownernumber = process.env.628974799554
 global.owner = [
   ['0'],
   ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  [`${process.env.628974799554}`, `${process.env.Alzer Gans}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [`${process.env.MODERATOR}`] // Want some help?
+global.mods = [`${process.env.Alzer Gans}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = process.env.Botz
+global.author = process.env.Alzer
 
 global.multiplier = 69 // The higher, The harder levelup
 
